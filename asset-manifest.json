@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bao_Hay/static/css/main.f292e033.css",
+    "main.js": "/Bao_Hay/static/js/main.6cb81661.js",
+    "index.html": "/Bao_Hay/index.html",
+    "main.f292e033.css.map": "/Bao_Hay/static/css/main.f292e033.css.map",
+    "main.6cb81661.js.map": "/Bao_Hay/static/js/main.6cb81661.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f292e033.css",
+    "static/js/main.6cb81661.js"
+  ]
+}
