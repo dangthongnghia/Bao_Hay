@@ -32,14 +32,7 @@ const Card = ({ data }) => {
               <span className='source'>{article.source_id}</span>
               <span className='date'>{new Date(article.pubDate).toLocaleDateString()}</span>
             </div>
-            <a 
-              href={article.link}
-              className='read-more-btn'
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Read More
-            </a>
+           
           </div>
         </div>
       ))}
